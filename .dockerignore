@@ -1,0 +1,17 @@
+node_modules
+dist
+coverage
+.git
+.github
+.gitignore
+.env
+.env.*
+*.log
+*.md
+Dockerfile
+.dockerignore
+.nvmrc
+test
+**/*.test.*
+eslint.config.js
+.DS_Store
